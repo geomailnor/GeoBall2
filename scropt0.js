@@ -455,7 +455,7 @@ function drawGame() {
                 narisuvaiPobedaZaguba("zaguba"); //chocar става true
                 return;
             };
-            if(brFin > 20){
+            if(brFin > 55){
                 brFin = 2;
                 narisuvaiPobedaZaguba("pobeda");
             }
